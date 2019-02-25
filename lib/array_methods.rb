@@ -8,6 +8,8 @@ array.sort
 end
 
 def using_reverse(array)
+  
+  array.reverse
 
 end
 
